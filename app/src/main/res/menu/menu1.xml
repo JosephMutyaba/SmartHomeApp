@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/baseline_star_outline_24"
+        android:title="Favourites" />
+    <item
+        android:id="@+id/things"
+        android:icon="@drawable/thigs1and2"
+        android:title="Things" />
+    <item
+        android:id="@+id/routines"
+        android:icon="@drawable/baseline_rotate_right_24"
+        android:title="Routines" />
+
+    <item
+        android:id="@+id/ideas"
+        android:icon="@drawable/baseline_lightbulb_24"
+        android:title="Ideas" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/baseline_display_settings_24"
+        android:title="Settings" />
+</menu>
